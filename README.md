@@ -90,10 +90,13 @@ The workforce view. This page assesses whether the company built a productive an
 
 ## Skills demonstrated
 
-- Dimensional data modelling and relationship design
-- Advanced DAX, including time-based and current-state measures
+- Dimensional data modelling and star-schema design
+- Advanced DAX, including time intelligence and current-state measures
+- Data preparation and transformation (Power Query)
+- KPI definition and metric design
 - Executive dashboard design and information hierarchy
 - Interactive reporting with navigation, synced filters, and bookmarks
+- Data storytelling and stakeholder communication
 - Translating raw business data into clear, decision-oriented insight
 
 ---
